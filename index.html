@@ -28,33 +28,56 @@
 
     <p>Ping Pong will count up to your number from 1 with the following exceptions</p>
 
-    <ul>
+    <ol>
 
       <li>Numbers Divisible by 3 become 'ping'</li>
       <li>Numbers divisible by 5 become 'pong'</li>
       <li>Numbers divisible by 3 and 5 become "ping pong"</li>
 
-    </ul>
+    </ol>
 
-    <form>
-      <p>Enter Your number here:<input type="number" name="number" />
-        <input type="submit" value="PingPong">
-    </form>
-    </p>
+    <div id="userInput">
+        <form>
+            <div class="form-group">
+                Enter your number here: <input id="number" class="btn btn-default" type="number">
+                <button type="submit" class="">Ping Pong</button>
+            </div>
+        </form>
+
+
+        <br />
+
+        <div id="output">
+            <strong>Results</strong>
+            <ul class="result">
+            </ul>
+        </div>
+    </div>
 
   </div>
 
 </body>
 
+
+<script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+
+    // script for the function
+</script>
+
 <footer class="bottom">
   <p>Created by Moses Waweru Chege </p>
 </footer>
 
-<html>
 
+<!-- jQuery -->
+<script src="java/jquery.js"></script>
 
-
-
+<!-- Bootstrap Core JavaScript -->
+<script src="java/bootstrap.min.js"></script>
 
 </body>
 
