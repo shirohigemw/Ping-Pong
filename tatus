@@ -1,0 +1,59 @@
+[33mcommit 2555bef20171c1aa794bb1a24954da646478601d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Bwana <shirohigemw@gmail.com>
+Date:   Tue Oct 31 09:50:43 2017 +0300
+
+    fix meta tag utf-8
+
+[33mcommit d3c274d07a5ed61890dddb2d71d0ac8382a1093e[m
+Author: Bwana <shirohigemw@gmail.com>
+Date:   Tue Oct 31 08:21:53 2017 +0300
+
+    make the java work
+
+[33mcommit 01ab8edd3196014612ab66a395cb52a3adb4bf4a[m
+Author: Bwana <shirohigemw@gmail.com>
+Date:   Tue Oct 31 08:01:43 2017 +0300
+
+    add java
+
+[33mcommit b38cb75ce7d12fca90bbad631f3678c567b41c9c[m
+Author: Bwana <shirohigemw@gmail.com>
+Date:   Mon Oct 30 12:53:56 2017 +0300
+
+    add numbers
+
+[33mcommit 6eb3689dd2c7a89a608e9306ffd2940fbf7b3030[m[33m ([m[1;31morigin/gh-pages[m[33m, [m[1;32mgh-pages[m[33m)[m
+Author: Bwana <shirohigemw@gmail.com>
+Date:   Mon Oct 30 11:51:42 2017 +0300
+
+    add bottom banner
+
+[33mcommit f63a696abe2dc44b792008442d1428b02fbc7192[m
+Author: Bwana <shirohigemw@gmail.com>
+Date:   Mon Oct 30 10:44:15 2017 +0300
+
+    add style to html
+
+[33mcommit b41a8ff883b1e709c7dcef2fd8309d09874a8ed0[m
+Author: Bwana <shirohigemw@gmail.com>
+Date:   Mon Oct 30 10:01:43 2017 +0300
+
+    add to the body content
+
+[33mcommit 9a52f9c1c30b283021f19a9112a26c9e1220e717[m
+Author: Bwana <shirohigemw@gmail.com>
+Date:   Mon Oct 30 09:42:19 2017 +0300
+
+    create .js and .css files
+
+[33mcommit 9b47bec939a80846bebaba780c57d38cedf7002b[m
+Author: Bwana <shirohigemw@gmail.com>
+Date:   Mon Oct 30 09:40:34 2017 +0300
+
+    add the centre logo
+
+[33mcommit 0bedb3a428ecd6a1f9940ea971de41eeee809f54[m
+Author: Bwana <shirohigemw@gmail.com>
+Date:   Mon Oct 30 09:14:17 2017 +0300
+
+    start the project
